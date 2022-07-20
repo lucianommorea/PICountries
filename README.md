@@ -1,6 +1,6 @@
 # Countries App - Proyecto Individual Henry
 
-![Countries1](https://github.com/lucianommorea/PICountries/blob/main/client/src/images/PICountries1.png)
+![Countries1](https://github.com/lucianommorea/PICountries/blob/main/client/src/images/PICountries1.png) { width=33% }
 
 ## Introducción
 
