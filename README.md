@@ -1,8 +1,6 @@
 # Countries App - Proyecto Individual Henry
 
-<img src='./client/src/images/PICountries1.png' width='33%'/>
-<img src='./client/src/images/PICountries2.png' width='33%'/>
-<img src='./client/src/images/PICountries3.png' width='33%'/>
+![Countries1](https://github.com/lucianommorea/PICountries/blob/main/client/src/images/PICountries1.png)
 
 ## Introducción
 
@@ -225,6 +223,6 @@ __IMPORTANTE__: No está permitido utilizar los filtrados, ordenamientos y pagin
 - [ ] Al menos tener un componente del frontend con sus tests respectivos
 - [ ] Al menos tener una ruta del backend con sus tests respectivos
 - [ ] Al menos tener un modelo de la base de datos con sus tests respectivos
-#   P I C o u n t r i e s 
- 
-  -->
+#� �P�I�C�o�u�n�t�r�i�e�s�
+�
+� -->
