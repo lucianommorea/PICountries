@@ -1,7 +1,5 @@
 # Countries App - Proyecto Individual Henry
 
-![Countries1](https://github.com/lucianommorea/PICountries/blob/main/client/src/images/PICountries1.png =100x20)
-
 ## Introducción
 
 <p align="justify">
@@ -47,6 +45,10 @@ PostgreSQL.
 ## El sitio se encuentra actualmente disponible en : https://pic-ountries.vercel.app/
 
 Visítalo! 
+
+![Countries1](https://github.com/lucianommorea/PICountries/blob/main/client/src/images/PICountries1.png)
+![Countries2](https://github.com/lucianommorea/PICountries/blob/main/client/src/images/PICountries2.png)
+![Countries3](https://github.com/lucianommorea/PICountries/blob/main/client/src/images/PICountries3.png)
 
 
 
